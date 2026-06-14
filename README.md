@@ -22,7 +22,7 @@ Atividade prática desenvolvida em JavaScript puro com foco em manipulação do 
 
 ### Exemplo 2 - Interatividade com Imagens
 Funcionalidade para trocar imagens dinamicamente através de botões interativos.
-![Elementos Ocultos](imagem/exemplo2.png)
+![Interatividade com imagens](imagem/exemplo2.png)
 
 ### Exemplo 3 - Mostrar/Ocultar Elementos
 ![Elementos Ocultos](imagem/exemplo3.png)

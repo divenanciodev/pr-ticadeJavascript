@@ -18,13 +18,14 @@ Atividade prática desenvolvida em JavaScript puro com foco em manipulação do 
 ## Exemplos do Projeto
 
 ### Exemplo 1 - Manipulação de Texto
-![Manipulação de Texto](imagem/CopaDoBrasil.png)
+![Manipulação de Texto](imagem/exemplo1.png)
 
 ### Exemplo 2 - Interatividade com Imagens
 Funcionalidade para trocar imagens dinamicamente através de botões interativos.
+![Elementos Ocultos](imagem/exemplo2.png)
 
 ### Exemplo 3 - Mostrar/Ocultar Elementos
-![Elementos Ocultos](imagem/imagem3.jpg)
+![Elementos Ocultos](imagem/exemplo3.png)
 
 ## Funcionalidades
 
